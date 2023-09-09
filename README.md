@@ -11,5 +11,3 @@ const inputData = fs.readFileSync('./test.txt').toString().split(' ');
 
 const fs = require('fs');
 const inputData = fs.readFileSync('/dev/stdin').toString().split(' ');
-
-pc연결
